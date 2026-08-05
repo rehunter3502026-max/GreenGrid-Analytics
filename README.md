@@ -1,5 +1,8 @@
 # 🌿 GreenGrid Analytics
 
+https://colab.research.google.com/drive/18651wO_OPEU2uiW4idSm4DSpmg27bydA?usp=sharing
+
+
 ## Overview
 
 GreenGrid Analytics is a comprehensive renewable energy intelligence dashboard built using **Python**, **Streamlit**, and **Plotly**. It enables users to explore renewable energy adoption, carbon emissions, electricity demand, clean energy investments, and sustainability indicators through interactive visualizations and insightful analytics.
